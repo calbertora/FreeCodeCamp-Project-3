@@ -1,0 +1,50 @@
+/*General*/
+body {
+	padding: 0 3em 0.5em 3em;
+}
+/*Navigation*/
+
+nav {
+	min-width: 500px;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+	max-width: 300px;
+}
+ul {
+	width: 50%;
+	float: right;
+}
+li {
+	float: right;
+	margin-right: 3%;
+	list-style-type: none;
+}
+/*Main section*/
+#main-section {
+	width: 80%;
+	margin: auto;
+	text-align: center
+}
+
+/*Features*/
+#features-section {
+	width: 80%;
+	margin: auto;
+}
+
+.features {
+	display: inline-block;
+}
+
+.features-description {
+	float: right;
+	margin-left: 2%;
+}
+
+i {
+	width: 30px;
+	height: auto;
+}
